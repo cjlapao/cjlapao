@@ -22,8 +22,8 @@ I'm a resourceful software engineer and architect with a strong foundation in .N
 ### 🌍 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/carloslapao/)
-- 🧪 [GitHub Projects](https://github.com/yourusername)
-- 📝 Blog or Portfolio (Coming Soon)
+- 🧪 [GitHub Projects](https://github.com/cjlapao?tab=repositories)
+- 📝 [Blog and Portfolio](https://www.carloslapao.com)
 
 ---
 
